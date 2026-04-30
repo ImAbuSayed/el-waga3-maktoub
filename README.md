@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي في الليالي أنت النور
+> همس قلبك يسري في كل زمان
+> بين أحضانك أذوب بشعور
+> أنت نبضي وأنت لي كل الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
